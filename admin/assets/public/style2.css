@@ -1,0 +1,47 @@
+.block-nav,
+.nav-item{
+    color: #fff;
+}
+.block-nav{
+    background-color: #69a747;
+}
+.nav-item
+.input-search{
+    height: 45px;
+    border-radius: 65px;
+    box-shadow: none;
+    border: none;
+}
+.searchSpace {
+    position: relative;
+    margin-left: 10px;
+}
+.input-search{
+    width: 500px;
+    margin-top: 30px;
+
+}
+.nav-logo{
+    
+    margin-right: 30px;
+   /*  width: 50px; */
+   margin-top: 20px;
+}
+.search-icon{
+    position:absolute;
+    right: 10px;
+    top: 8px;
+    color: #69a747;
+}
+.nav-item_mt{
+    margin-top: 8px;
+    margin-left: 5px;
+}
+/* .nav-item_mr{
+    margin-right: 0px;
+} */
+.flag-vietnam{
+    width: 40px;
+    margin-left: 10px;
+    margin-top: 25px
+}

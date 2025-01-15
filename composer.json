@@ -1,0 +1,14 @@
+{
+    "require": {
+        "google/apiclient": "^2.0",
+        "pusher/pusher-php-server": "^7.2",
+        "dompdf/dompdf": "^3.0",
+        "gemini-api-php/client": "^1.4",
+        "cboden/ratchet": "^0.4.4"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
